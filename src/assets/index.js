@@ -46,7 +46,7 @@ import lightspeed from "./lightspeed.png";
 import dennisivy from "./dennisivy.png";
 import manipal from "./manipal.png";
 import icon from "./icon.jpg";
-import pheme from "./Phemesoft.png";
+import pheme from "./phemesoft.png";
 import ethforall from "./ethforall.png";
 
 export {

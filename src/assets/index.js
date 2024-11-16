@@ -35,7 +35,7 @@ import placeicon from "./place-icon.svg";
 import recruitment from "./recruitment.png";
 import huntly from "./huntly.png";
 import oracle from "./oracle.jpg";
-import comicify_ai from "./DDos.png";
+import comicify_ai from "./ddos.png";
 import greentrust from "./green_trust.png";
 import averlon from "./averlon.jpg";
 import devfolio from "./owasp.png";
